@@ -4,7 +4,7 @@ Olá, seja bem-vindo(a)! / Welcome!
 💡 Communicative, proactive, with leadership spirit and strong teamwork skills.
 ---
 
- 🚀 Áreas de interesse / Areas of Interest
+  Áreas de interesse / Areas of Interest
 - Engenharia de Dados / Data Engineering  
 - Inteligência Artificial / Artificial Intelligence  
 - Aprendizado de Máquina / Machine Learning  

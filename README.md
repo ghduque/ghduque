@@ -14,5 +14,7 @@ Communicative, proactive, with leadership spirit and strong teamwork skills.
  📫 Contato / Contact
 - ✉️ Email: gabrielhduque19@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/gabriel-duque-480990247
+- 📃 Lattes: https://lattes.cnpq.br/9764073084795456
+  
 
  Obrigado por visitar meu perfil! / Thanks for visiting my profile!

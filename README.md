@@ -1,6 +1,6 @@
 Olá, seja bem-vindo(a)! / Welcome!
 
-Computer Engineering undergraduate at IFMG (Federal Institute of Minas Gerais), focused on data engineering, artificial intelligence and machine learning.  
+Computer Engineering undergraduate at IFMG (Federal Institute of Minas Gerais)
 ---
 
   Áreas de interesse / Areas of Interest
